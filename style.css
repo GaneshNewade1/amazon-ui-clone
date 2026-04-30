@@ -78,8 +78,10 @@ body {
     border: none;
     border-radius: 4px;
     background-color: pink;
-    
-    
+}
+
+.nav-search:hover {
+    border: 2px solid orange;
 }
 
 .nav-select {
@@ -134,20 +136,53 @@ body {
     font-size: 1.2rem;
 }
 
+/* box 5  */
 
+.nav-signin {
+    width: 120px;
+    height: 45px;
+    margin-left: 15px;
+    
+}
 
+.hello-line {
+    font-size: 0.7rem;
+}
 
+.accounts-line {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
 
+/* box 6  */
 
+.nav-returns {
+    width: 75px;
+    height: 45px;
+    margin-left: 5px;
+}
 
+.returns-line {
+    font-size: 0.7rem;
+}
 
+.orders-line {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
 
+/* box 7  */
 
+.nav-cart i {
+    font-size: 30px;
 
+}
 
-
-
-
+.nav-cart {
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 15px;
+}
 
 
 
